@@ -17,6 +17,8 @@ import com.bigkoo.pickerviewdemo.bean.ProvinceBean;
 
 public class MainActivity extends Activity {
 
+
+    /////你是
     private ArrayList<ProvinceBean> options1Items = new ArrayList<ProvinceBean>();
     private ArrayList<ArrayList<String>> options2Items = new ArrayList<ArrayList<String>>();
     private ArrayList<ArrayList<ArrayList<String>>> options3Items = new ArrayList<ArrayList<ArrayList<String>>>();
